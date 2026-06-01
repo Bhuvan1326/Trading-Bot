@@ -48,11 +48,12 @@ The project is structured so that the Binance client, order management logic, va
 
 ## Screenshots
 
-<img width="1920" height="1080" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/7f5e6888-95de-4066-8dc7-cd5a5235d189" />
+<img width="1920" height="978" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/c921c471-ff02-4fdd-a248-17bd051335f8" />
 
-<img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/53cd94f1-04bc-4f33-8c93-0a7ef432a51f" />
+<img width="1920" height="980" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/2c229a82-35bd-433d-bcdd-75ecc77e8169" />
 
-<img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/727fcf01-df79-4174-abe7-892dc689aabc" />
+<img width="1920" height="980" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/ba80d06f-23d1-491a-b254-3b491d0f3538" />
+
 
 ---
 
