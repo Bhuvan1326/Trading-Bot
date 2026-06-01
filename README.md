@@ -46,6 +46,16 @@ The project is structured so that the Binance client, order management logic, va
 
 ---
 
+## Screenshots
+
+<img width="1920" height="1080" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/7f5e6888-95de-4066-8dc7-cd5a5235d189" />
+
+<img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/53cd94f1-04bc-4f33-8c93-0a7ef432a51f" />
+
+<img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/727fcf01-df79-4174-abe7-892dc689aabc" />
+
+---
+
 ## Design Goals
 
 The goal was not only to satisfy the assignment requirements but also to demonstrate software engineering practices that make the application easier to maintain and extend.
