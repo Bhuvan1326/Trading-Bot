@@ -1,0 +1,4 @@
+2026-06-01 22:52:03 | INFO     | bot.orders | Placing STOP_LIMIT (algo): symbol=BTCUSDT, side=SELL, qty=0.001, price=66500.0, trigger=67000.0
+2026-06-01 22:52:03 | DEBUG    | bot.client | → POST /fapi/v1/algoOrder params={'algoType': 'CONDITIONAL', 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'STOP', 'quantity': 0.001, 'price': 66500.0, 'triggerPrice': 67000.0, 'timeInForce': 'GTC', 'timestamp': 1748794323123}
+2026-06-01 22:52:04 | DEBUG    | bot.client | ← POST /fapi/v1/algoOrder status=200 body={"algoId":4829106401,"clientAlgoId":"x-Cb7ytekJ...","algoType":"CONDITIONAL","orderType":"STOP","symbol":"BTCUSDT","side":"SELL","positionSide":"BOTH","timeInForce":"GTC","quantity":"0.001","algoStatus":"NEW","triggerPrice":"67000","price":"66500","workingType":"CONTRACT_PRICE","reduceOnly":false,"createTime":1748794324012,"updateTime":1748794324012}
+2026-06-01 22:52:04 | INFO     | bot.orders | Order response: id=4829106401 status=NEW executed=0.0 avg=0.0
